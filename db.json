@@ -1,11 +1,12 @@
-[{
-  "user": {
-    "handle": "nolivo"
-  },
-  "description": "February is a good month"
-},
 {
-"user": {
-  "handle": "tweedleDee"
+  "recentTweets": [{
+    "user": {
+      "handle": "nolivo"      
+    },
+    "description": "This is a description"
+  }, {
+    "user": {
+      "handle": "tweedleDee"
+    }
+  }]
 }
-}]
